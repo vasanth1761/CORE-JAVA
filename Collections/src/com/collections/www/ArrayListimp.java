@@ -35,7 +35,7 @@ public class ArrayListimp {
 			System.out.println(alist);
 			return;
 		}
-			
+	   
 
 	}
 
